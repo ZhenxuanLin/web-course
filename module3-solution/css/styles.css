@@ -1,0 +1,30 @@
+body {
+	background-color: #8b0000;
+}
+
+hr {
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border-top: 1px solid #ffffff;
+}
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#nav-list {
+	color: #951C49;
+	text-align: center;
+}
+
+#menu-title {
+	color: #ffffff;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+.col-md-12 {
+	background-color: #C0C0C0;
+	margin-bottom: 10px;
+}
