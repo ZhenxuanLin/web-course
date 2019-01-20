@@ -126,7 +126,7 @@ function buildAndShowHomeHTML (categories) {
       // it into the home html snippet.
       //
       // var homeHtmlToInsertIntoMainPage = ....
-      insertHtml(#main-content,homeHtmlToInsertIntoMainPage);
+      insertHtml("#main-content",homeHtmlToInsertIntoMainPage);
 
 
       // TODO: STEP 4: Insert the the produced HTML in STEP 3 into the main page
